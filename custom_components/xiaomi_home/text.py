@@ -45,7 +45,7 @@ off Xiaomi or its affiliates' products.
 
 Text entities for Xiaomi Home.
 """
-from __future__ import annotations
+from __future__ import annotation
 import logging
 from typing import Any, Optional
 
